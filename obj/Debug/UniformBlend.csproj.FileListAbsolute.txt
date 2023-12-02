@@ -1,0 +1,7 @@
+C:\Users\Wyatt\source\repos\UniformBlend\bin\Debug\UniformBlend.exe.config
+C:\Users\Wyatt\source\repos\UniformBlend\bin\Debug\UniformBlend.exe
+C:\Users\Wyatt\source\repos\UniformBlend\bin\Debug\UniformBlend.pdb
+C:\Users\Wyatt\source\repos\UniformBlend\obj\Debug\UniformBlend.csproj.AssemblyReference.cache
+C:\Users\Wyatt\source\repos\UniformBlend\obj\Debug\UniformBlend.csproj.CoreCompileInputs.cache
+C:\Users\Wyatt\source\repos\UniformBlend\obj\Debug\UniformBlend.exe
+C:\Users\Wyatt\source\repos\UniformBlend\obj\Debug\UniformBlend.pdb
